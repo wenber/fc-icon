@@ -3,6 +3,12 @@
     "version": "0.0.1",
     "description": "edp project",
     "main": "index.js",
+    "maintainers": [
+        {
+            "name": "Wang Cun Wei",
+            "email": "wangcunwei@baidu.com"
+        }
+    ],
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
@@ -15,7 +21,7 @@
         "dependencies": {}
     },
     "dependencies": {},
-    "author": "",
+    "author": "fc-fe@baidu.com",
     "repository": "empty",
     "license": "BSD",
     "readme": "README"
