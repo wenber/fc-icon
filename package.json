@@ -1,7 +1,7 @@
 {
     "name": "fc-icon",
-    "version": "0.0.1",
-    "description": "edp project",
+    "version": "0.0.3",
+    "description": "fc-icon aggregates font icons used in fc.",
     "main": "index.js",
     "maintainers": [
         {
