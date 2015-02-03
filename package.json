@@ -1,6 +1,6 @@
 {
     "name": "fc-icon",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "description": "fc-icon aggregates font icons used in fc.",
     "main": "index.js",
     "maintainers": [
