@@ -52,4 +52,4 @@ if __name__ == "__main__":
         print " */"
         for chunk in cssChunks(f, '}'):
             if (variablePattern.match(chunk)):
-                print variablePattern.sub("@\\g<1>:\\g<2>;", chunk)
+                print variablePattern.sub("@\\g<1>: \\g<2>;", chunk)
